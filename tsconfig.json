@@ -5,7 +5,7 @@
         "esModuleInterop": true,
         "experimentalDecorators": true,
         "module": "esnext",
-        "alwaysStrict": false,
+        "alwaysStrict": true,
         "strict": true,
         "noImplicitAny": false,
         "resolveJsonModule": true,
